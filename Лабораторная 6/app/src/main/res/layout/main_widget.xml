@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Widget.Widget.AppWidget.Container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp"
+    android:theme="@style/Theme.Widget.AppWidgetContainer">
+
+    <TextView
+        android:id="@+id/appwidget_text"
+        style="@style/Widget.Widget.AppWidget.InnerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:autoSizeMinTextSize="18sp"
+        android:autoSizeTextType="uniform"
+        android:backgroundTint="#6EAB39"
+        android:contentDescription="@string/appwidget_text"
+        android:includeFontPadding="false"
+        android:padding="8dp"
+        android:text="@string/appwidget_text"
+        android:textSize="22sp"
+        android:textStyle="normal" />
+</RelativeLayout>

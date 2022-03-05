@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Я люблю виджеты, но красивые</string>
+    <string name="first_frag_str">Крутая надпись</string>
+    <string-array name="sec_frag_arr">
+        <item></item>
+        <item></item>
+        <item>адин</item>
+        <item>семь шесть</item>
+        <item>чотыре восимь дэсят</item>
+        <item>восимь чотыре чэтыре</item>
+        <item>шэсть шэсть шэсть шэсть</item>
+        <item>тут, в целом, можно остановиться</item>
+    </string-array>
+    <string name="left_tab">Left tab</string>
+    <string name="middle_tab">Middle tab</string>
+    <string name="right_tab">Right tab</string>
+    <string name="mouse_description">аниме (люблю)</string>
+</resources>
